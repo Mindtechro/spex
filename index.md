@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to SPE:X!
 
-You can use the [editor on GitHub](https://github.com/Mindtechro/spex/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SPE:X is a **PC building video game** developed by Mindtech. It is available on [Steam](https://store.steampowered.com/app/1919440/SPEX/) for only 4.99$.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How's the game?
 
-### Markdown
+They say an image is worth 1000 words...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://cdn.akamai.steamstatic.com/steam/apps/1919440/ss_ea641653245d467d0f806dc0d0a7f9c25db2aaf2.1920x1080.jpg?t=1653062596)
 
-```markdown
-Syntax highlighted code block
+### And a demo is worth 1000 pictures...
 
-# Header 1
-## Header 2
-### Header 3
+### Story
 
-- Bulleted
-- List
+You are Ilie, an Eastern European Entrepreneur who is starting a new company of **building PCs**. You love computers and were building them since you were a kid. Now you think that it will be a good idea to make your family proud, so you'll be starting your own business with money borrowed from **unconventional sources**.
 
-1. Numbered
-2. List
+### Who's Mindtech?
 
-**Bold** and _Italic_ and `Code` text
+Mindtech is a small indie group of 2 developers who are **very passionate about computer games and PCs**. In this era, games have amazing graphics and millions of dollars poured into them. We do not have such resources at our disposal. As such, we are trying to substitute this, by striving to bring back the `oldschool` feeling from the good old games.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mindtechro/spex/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Steam
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Discord](https://discord.gg/tdkz7arJnK)
+- [Reddit](https://www.reddit.com/r/spex)
+- [YouTube](https://www.youtube.com/channel/UChOCA2KOODZEPIn-DS1oVZA)
+- [Steam](https://steamcommunity.com/app/1919440)
+- Email: `mindtech`romania [a] gmail [dot] com
+
+### Tags/Genre
+- Indie
+- Puzzle
+- Casual
+- Simulation
+- PC
