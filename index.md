@@ -1,5 +1,8 @@
 ## Welcome to SPE:X!
 
+![Banner](pics/library_logo_transparent.png)
+![Header](pics/library_hero.png)
+
 SPE:X is a **PC building video game** developed by Mindtech. It is available on [Steam](https://store.steampowered.com/app/1919440/SPEX/) for only 4.99$.
 
 ### How's the game?
@@ -8,7 +11,10 @@ They say an image is worth 1000 words...
 
 ![Image](https://cdn.akamai.steamstatic.com/steam/apps/1919440/ss_ea641653245d467d0f806dc0d0a7f9c25db2aaf2.1920x1080.jpg?t=1653062596)
 
-### And a demo is worth 1000 pictures...
+### And a video is worth 1000 pictures...
+
+[![Trailer](pics/spex-vid.png)](https://www.youtube.com/watch?v=-_8uNya37pU)
+
 
 ### Story
 
@@ -16,9 +22,13 @@ You are Ilie, an Eastern European Entrepreneur who is starting a new company of 
 
 ### Who's Mindtech?
 
+![Mindtech](pics/mindtechlogo.png)
+
 Mindtech is a small indie group of 2 developers who are **very passionate about computer games and PCs**. In this era, games have amazing graphics and millions of dollars poured into them. We do not have such resources at our disposal. As such, we are trying to substitute this, by striving to bring back the `oldschool` feeling from the good old games.
 
-### Steam
+### Download the game from Steam!
+[![Steam](pics/steam-transparent.jpg)](https://store.steampowered.com/app/1919440/SPEX/)
+
 
 ### Support or Contact
 
