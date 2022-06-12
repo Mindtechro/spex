@@ -1,2 +1,2 @@
-# spex
-Website for SPE:X
+# SPE:X
+*Computers. Small business. Threats. Can you face the challenge?*
