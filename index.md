@@ -27,7 +27,7 @@ You are Ilie, an Eastern European Entrepreneur who is starting a new company of 
 Mindtech is a small indie group of 2 developers who are **very passionate about computer games and PCs**. In this era, games have amazing graphics and millions of dollars poured into them. We do not have such resources at our disposal. As such, we are trying to substitute this, by striving to bring back the `oldschool` feeling from the good old games.
 
 ### Download the game from Steam!
-[![Steam](pics/steam-transparent.jpg)](https://store.steampowered.com/app/1919440/SPEX/)
+[![Steam](pics/steam-logo.png)](https://store.steampowered.com/app/1919440/SPEX/)
 
 
 ### Support or Contact
